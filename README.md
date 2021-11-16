@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shamahmesek
+- 👋 Hi, I’m @shamahmusek
 - 👀 I’m interested in ...cooding
 - 🌱 I’m currently learning ...how to be a programmar 
 - 💞️ I’m looking to collaborate on ...programming 
